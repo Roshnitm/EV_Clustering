@@ -65,9 +65,3 @@ K = 2
 ![Cluster 0 Output](images/output3.png)
 
 ---
-
-### 🔹 Cluster 1 Samples
-
-![Cluster 1 Output](images/output2.png)
-
----
