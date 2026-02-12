@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+
+# Dataset
+data/
+
+# Model files
+models/*.h5
+models/*.keras
+
+# Uploads
+static/uploads/
+Dataset/
+
+# OS files
+.DS_Store
+Thumbs.db
